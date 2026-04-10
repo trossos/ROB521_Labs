@@ -17,5 +17,4 @@ This course covers fundamental concepts in mobile robotics including:
 
 ## Collaborators
 
-Please add collaborators below by their GitHub username or full name:
 - Trent Rossos (@trossos)
