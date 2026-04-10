@@ -19,3 +19,4 @@ This course covers fundamental concepts in mobile robotics including:
 
 - Trent Rossos (@trossos)
 - Nayaab Ali (@fearthebun)
+- Claire Zhang (@clairezhang2003)
